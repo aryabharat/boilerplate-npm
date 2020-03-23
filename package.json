@@ -1,5 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
+	"author": "Bharat Arya",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -14,8 +15,4 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": {
-		"name": "Bharat Arya",
-		"email": "arya.allcool@gmail.com"
-	}
 }
